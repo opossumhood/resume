@@ -1,0 +1,29 @@
+body { background-color: #D3D3D3;
+       font: 1rem "Fira Sans", sans-serif; }
+
+h2 { text-align: center;
+     font-size: 30px;
+     background-color: #A9A9A9; }
+
+.container { display: flex;
+             font-size: 18px; }
+
+.anketa { padding: 10px; }
+
+.container li { margin: 15px;}
+
+#avatar { height: 450px;
+          position: relative;
+          top: 20px;
+          left: 100px; }
+
+#vkikon { width: 80px;
+          position: relative;
+          top: 15px; }
+
+.foot { background-color: #A9A9A9;
+        position: absolute;
+        padding-right: 100px;
+        padding-left: 20px;
+        bottom: 10;
+ }
